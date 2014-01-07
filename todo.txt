@@ -1,0 +1,6 @@
+- multiple authors w/ page
+- metadata on single post: how? 
+– toc, managing sections
+- activate plugins on theme activation: http://tgmpluginactivation.com/
+- showing post by guest authors
+- add languages
